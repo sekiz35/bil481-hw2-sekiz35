@@ -3,6 +3,8 @@
 Implement tests to improve the coverage. You are given a project that has only a few complete unit tests and the test coverage is very low. Some of the test are written partially, some of the tests are given as test method names and some there are also some missing tests. You are expected to increase the test coverage to 100% by implementing junit tests. You are going to use jacoco to measure the current test coverage numbers.
 
 > Instructions
+- Make sure your repository is private and do not change it to public till the deadline. Deadline is 01.11.2019 - 23:00
+
 - Import project main module. If your IDE has selected child module while importing, uncheck it. Example ScreenShot of eclipse can be seen below.
 
 ![alt text](https://github.com/hdsumerkan/BIL481_HW2/blob/master/BIL481_HW2/project/maven.JPG)
