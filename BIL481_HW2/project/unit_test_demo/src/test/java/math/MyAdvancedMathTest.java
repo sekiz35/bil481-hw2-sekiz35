@@ -46,9 +46,10 @@ public class MyAdvancedMathTest {
 	 * A test case that examines the add method
 	 * with zeros input values. 
 	 */
-	@Test
+	@Test(expected = IllegalArgumentException.class)
 	public void testAdd_shouldReturnZero() {
-
+            mam = new MyAdvancedMath();
+            mam.add(0,0);
 	}
 	
 	/*
