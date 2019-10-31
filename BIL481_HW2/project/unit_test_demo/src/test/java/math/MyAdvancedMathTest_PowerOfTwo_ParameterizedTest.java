@@ -1,4 +1,4 @@
-package demo.junit_class_demo.math;
+
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -46,7 +46,7 @@ public class MyAdvancedMathTest_PowerOfTwo_ParameterizedTest {
 	 */
 	@Test
 	public void testPowerOfTwoWithNormalCases() {
-
+            assertEquals("powerOfTwo(2) ", result, mam.powerOfTwo(power));
 	}
 	
 }
