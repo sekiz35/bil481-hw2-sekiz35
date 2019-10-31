@@ -1,4 +1,4 @@
-package demo.junit_class_demo.math;
+
 
 import org.junit.Assert;
 import org.junit.Rule;
@@ -36,7 +36,10 @@ public class MyAdvancedMathTest {
 	 */
 	@Test
 	public void test_add_normal() {
-		
+            mam = new MyAdvancedMath();
+            assertEquals("2 + 3 = 5 ", 5, mam.add(2,3));
+            assertEquals("4 + 9 = 13 ", 13, mam.add(4,9));
+            assertEquals("8 + 8 = 16 ", 16, mam.add(8,8));            
 	}
 	
 	/*
