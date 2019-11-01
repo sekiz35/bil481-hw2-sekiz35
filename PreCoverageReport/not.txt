@@ -1,0 +1,5 @@
+Hocam kusura bakmayın, "create in your repository" deyince ben direkt githubta(profilimde) kendim yeni bir klasör oluşturmuştum.
+Daha sonra local'de oluşturacağımı anladım ama oluşturmama rağmen pushladığımda bu yeni klasör görünmüyordu.
+Netbeans kullanıyorum ve ne kadar araştırsam da bulamadım. Farklı çözümler denedim ama yine de olmadı.
+Daha sonra buradan oluşturmaya karar verdim.
+Daha önce kendi repository'mde oluşturduğumu da public yapacağım isterseniz kontrol edebilirsiniz.
