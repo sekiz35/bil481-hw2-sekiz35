@@ -1,0 +1,2 @@
+Maalesef build hatası alıyorum ve bu yüzden target/site/jacoco/index.html oluşmuyor.
+Dolayısıyla değişim sonrası ekran görüntüsü alamıyorum.
